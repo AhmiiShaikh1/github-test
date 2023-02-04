@@ -1,0 +1,8 @@
+header:hover{
+      background: grey; color: black; width: 340px; height: 90px; font-size: 16px; border: 5px double black; margin: auto ;font-weight: bold;font-style: italic;text-shadow: 2px 6px 3px white; padding: auto; transition-duration: 2s; border-top-right-radius: 35px;border-bottom-left-radius: 33px
+
+}
+
+  header{
+    background: rebeccapurple; color: whitesmoke; width: 340px; height: 90px; font-size: 16px; border: 5px double black; margin: auto ;font-weight: bold;font-style: italic;text-shadow: 4px 8px 6px black; padding: auto; transition-duration: 2s
+  }

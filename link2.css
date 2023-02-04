@@ -1,0 +1,22 @@
+.heading{
+  background: lightseagreen; color: whitesmoke; text-align: center; font-family: 'Times New Roman', Times, serif; color: brown
+  
+ 
+  }
+  
+.special{
+  background-color: lightblue
+  }
+  body{
+  background: darkslategrey
+}
+.h2{
+  background: lightcyan; text-align: center; font-family: fantasy; color:brown
+}
+legend{
+  font-family: fantasy; background: whitesmoke; color: black
+  }
+
+fieldset{
+   color: white; font-family: cursive
+}
